@@ -3,6 +3,10 @@
   src: url("./assets/fonts/GalanoGrotesqueRegular.ttf") format("truetype"),
     url("./assets/fonts/GalanoGrotesqueMedium.ttf") format("truetype"); /* Safari, Android, iOS */
 }
+@font-face {
+  font-family: "Galano Medium";
+  src: url("./assets/fonts/GalanoGrotesqueMedium.ttf") format("truetype"); /* Safari, Android, iOS */
+}
 
 * {
   box-sizing: border-box;

@@ -2,6 +2,7 @@ import * as React from "react";
 import "./dashboard.scss";
 import Sidebar from "./sidebar";
 import verify from "../../assets/images/verify.svg";
+import Stats from "./stats";
 
 export interface DashboardProps {}
 
@@ -22,7 +23,15 @@ const Dashboard: React.FC<DashboardProps> = (props) => {
         </div>
 
         {/* Stats */}
-        <div className="section-stats">Stats</div>
+        <div className="section-stats">
+          <Stats
+            link={"manosupermarket"}
+            orders={192}
+            totalSales={155920}
+            storeViews={96}
+            productViews={2313}
+          />
+        </div>
 
         {/* Orders */}
         <div className="section-orders">Orders</div>
