@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dukaan/static/css/main.19cc3d71.chunk.css",
+    "main.js": "/dukaan/static/js/main.5773073c.chunk.js",
+    "main.js.map": "/dukaan/static/js/main.5773073c.chunk.js.map",
+    "runtime-main.js": "/dukaan/static/js/runtime-main.f30c7f04.js",
+    "runtime-main.js.map": "/dukaan/static/js/runtime-main.f30c7f04.js.map",
+    "static/js/2.2497d2bd.chunk.js": "/dukaan/static/js/2.2497d2bd.chunk.js",
+    "static/js/2.2497d2bd.chunk.js.map": "/dukaan/static/js/2.2497d2bd.chunk.js.map",
+    "static/js/3.dfdf5221.chunk.js": "/dukaan/static/js/3.dfdf5221.chunk.js",
+    "static/js/3.dfdf5221.chunk.js.map": "/dukaan/static/js/3.dfdf5221.chunk.js.map",
+    "index.html": "/dukaan/index.html",
+    "static/css/main.19cc3d71.chunk.css.map": "/dukaan/static/css/main.19cc3d71.chunk.css.map",
+    "static/js/2.2497d2bd.chunk.js.LICENSE.txt": "/dukaan/static/js/2.2497d2bd.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dukaan/static/media/GalanoGrotesqueRegular.92ea1ba4.ttf",
+    "static/media/arrow_right.ce74fefe.svg": "/dukaan/static/media/arrow_right.ce74fefe.svg",
+    "static/media/arrow_up.7369d605.svg": "/dukaan/static/media/arrow_up.7369d605.svg",
+    "static/media/facebook.7a80b087.svg": "/dukaan/static/media/facebook.7a80b087.svg",
+    "static/media/logo_white.8a6a2d4e.svg": "/dukaan/static/media/logo_white.8a6a2d4e.svg",
+    "static/media/navbar_account.6d35c513.svg": "/dukaan/static/media/navbar_account.6d35c513.svg",
+    "static/media/navbar_catalogue.8f09d423.svg": "/dukaan/static/media/navbar_catalogue.8f09d423.svg",
+    "static/media/navbar_home.8acd48af.svg": "/dukaan/static/media/navbar_home.8acd48af.svg",
+    "static/media/navbar_marketing.17c7dd36.svg": "/dukaan/static/media/navbar_marketing.17c7dd36.svg",
+    "static/media/navbar_orders.82994850.svg": "/dukaan/static/media/navbar_orders.82994850.svg",
+    "static/media/twitter.8f71a440.svg": "/dukaan/static/media/twitter.8f71a440.svg",
+    "static/media/verify.19304187.svg": "/dukaan/static/media/verify.19304187.svg",
+    "static/media/whatsapp.25bc81b7.svg": "/dukaan/static/media/whatsapp.25bc81b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f30c7f04.js",
+    "static/js/2.2497d2bd.chunk.js",
+    "static/css/main.19cc3d71.chunk.css",
+    "static/js/main.5773073c.chunk.js"
+  ]
+}
