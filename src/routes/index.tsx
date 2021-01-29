@@ -1,6 +1,6 @@
 import * as React from "react";
-import Dashboard from "../containers/Dashboard";
 import { Route, Switch } from "react-router-dom";
+import Dashboard from "../containers/Dashboard";
 
 export interface RoutesProps {}
 const Routes: React.FC<RoutesProps> = (props) => {

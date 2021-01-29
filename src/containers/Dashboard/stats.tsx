@@ -66,7 +66,7 @@ const Stats: React.FC<StatsProps> = (props) => {
         </div>
 
         {/* Stats */}
-        <div className="stats">
+        <div className="overview">
           {stats.map((stat, ind) => {
             return (
               <div className="card" key={ind}>
